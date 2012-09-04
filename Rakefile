@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-FrontendExcercise::Application.load_tasks
+FrontendExercise::Application.load_tasks
